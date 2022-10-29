@@ -511,7 +511,7 @@ p11{font-size:14px;
 }
 
  
-@media (min-width:375px)and (max-width:500px){
+@media (min-width:300px)and (max-width:500px){
   header{
       border: none;
   }
